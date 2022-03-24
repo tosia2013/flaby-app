@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+header{
+    background: no-repeat url(../img/BG.svg);
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    height: 975px;
+}
+
+.header__top{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: #fff;
+}
+
+.logo{
+    padding: 48px 0 0 12%;
+}
+
+.menu{
+    padding: 42px 0 0 13%;
+}
+
+.menu__ul{
+    display: flex;
+}
+
+.menu__link{
+    color: #fff;
+    font-size: 17px;
+    line-height: 60px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Raleway", sans-serif;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.link__mid{
+    padding: 0 20px 0 20px;
+}
+
+.link__first{
+    padding-right: 20px;
+}
+
+.link__lust{
+    padding-left: 20px;
+}
+
+.button__login{
+    width: 110px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: #479ee1;
+    font-size: 17px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Raleway";
+    text-transform: uppercase;
+}
+
+.button__top{
+    padding: 46px 12.3% 0 0;
+}
+
+.demarcation{
+    width: 1160px;
+    height: 1px;
+    background-color: #ffffff;
+    margin: 35px auto;
+}
+
+.header__content{
+    display: flex;
+    flex-direction: column;
+    padding: 242px 0 0 15.5%;
+}
+
+.header__title{
+    font-size: 40px;
+    line-height: 28px;
+    color: #fffefe;
+    font-family: "Museo Slab";
+    text-transform:uppercase;
+}
+
+.description__text{
+    font-size: 26px;
+    line-height: 40px;
+    color: #fefefe;
+    font-weight: 500;
+    font-family: 'Roboto Slab', serif;
+    padding: 35px 0 75px 0;   
+}
+
+.btn__google{
+    width: 240px;
+    height: 80px;
+    border-radius: 10px;
+    filter: drop-shadow(0px 8px 5.5px rgba(54,54,54,0.15));
+    background-color: #ffffff;
+    font-size: 20px;
+    line-height: 40px;
+    color: #3e3e3e;
+    font-weight: 600;
+    font-family: "Raleway";
+    margin: 0 3% 0 0;
+}
+
+.btn__more__information{
+    width: 240px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: #4894ce;
+    font-size: 20px;
+    line-height: 40px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Raleway";
+}
+
+.googleplay__logo{
+    padding: 10px 1% 0 0;
+}
