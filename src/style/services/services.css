@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Roboto+Slab:wght@300;400&display=swap');
+
+.servisec__all{
+    height: 715px;
+}
+
+.servisec__title__text{
+    font-size: 18px;
+    line-height: 24px;
+    color: #7c7c7c;
+    font-weight: 400;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+.servisec__title__h1{
+    font-size: 28px;
+    letter-spacing: 2px;
+    color: #494949;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 7px;
+}
+
+.servisec__divider{
+    width: 30px;
+    height: 2px;
+    background-color: #2eb0ec;
+}
+
+.services__title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 92px;
+}
+
+.servisec__divider{
+    margin-top: 15px;
+}
+
+.servisec__content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 90px;
+}
+
+.servisec__wraper__text{
+    width: 309px;
+    height: 82px;
+    font-size: 14px;
+    line-height: 26px;
+    color: #7c7c7c;
+    font-weight: 500;
+    font-family: "Raleway";
+    text-align: center;
+    padding-top: 28px;    
+}
+
+.servisec__wraper__title{
+    font-size: 18px;
+    color: #494949;
+    font-weight: 700;
+    font-family: "Raleway";
+    text-align: center;
+    padding-top: 48px;
+}
+
+.servisec__wraper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

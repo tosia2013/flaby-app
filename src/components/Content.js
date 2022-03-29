@@ -1,9 +1,12 @@
 import React from "react";
+import Services from "./services/Services";
+import UnlimitedCustomization from "./unlimited customization/UnlimitedCustomization";
 
 const Content = () =>(
     <>
         <div>
-            <h1>Once there will be content</h1>
+            <Services />
+            <UnlimitedCustomization />
         </div>
     </>    
 );
