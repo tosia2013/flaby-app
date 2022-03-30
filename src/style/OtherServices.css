@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500;600&family=Roboto+Slab&display=swap');
+
+.OS__content{
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 55px;
+}
+
+.both__planks{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.OS__title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.OS__title__h2{
+    font-size: 18px;
+    line-height: 24px;
+    color: #7c7c7c;
+    font-weight: 400;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    letter-spacing: 0.4px;
+    padding-bottom: 6px;
+}
+
+.OS__title__h1{
+    font-size: 24px;
+    letter-spacing: 2px;
+    color: #494949;
+    font-weight: 400;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3.6px;
+    padding-bottom: 18px;
+}
+
+.OS__dividor{
+    width: 32px;
+    height: 2px;
+    background-color: #2eb0ec;
+    margin-right: 0.5%;
+}
+
+.plank__title{
+    font-size: 18px;
+    color: #494949;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.plank__text{
+    width: 261px;
+    height: 113px;
+    font-size: 14px;
+    line-height: 26px;
+    color: #7c7c7c;
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0.3px;
+}
+
+.planks__content{
+    display: flex;
+}
+
+.shopping__content{
+    padding: 42px 0 0 1.4%;
+}
+.shopping__icon{
+    padding: 35px 6% 0 0;
+}
+
+.shopping__plank__title,
+.responsive__plank__title,
+.bonus__plank__title{
+    padding-bottom: 18px;
+}
+
+.responsive__content{
+    padding-top: 42px;
+}
+
+.responsive__icon{
+    padding: 37px 7% 0 6.5%;
+}
+
+.bonus__planks__content{
+    padding: 69px 5.4% 0 0;
+}
+
+.bonus__icon{
+    padding: 0 7% 0 0;
+}
+
+.bonus__plank__title{
+    padding-top: 15px;
+}
+
+.OS__planks__bottom{
+    padding-bottom: 44px;
+}
+
+.OS__title{
+    padding-bottom: 76px;
+}
+
+.id__planks__content{
+    padding-left: 1.8%;
+}
+
+.id__icon{
+    padding: 18px 6.9% 0 0;
+}
+
+.id__title{
+    padding: 28px 0 20px 0;
+}
+
+.coding__icon{
+    padding: 24px 7.6% 0 0;
+}
+
+.coding__title{
+    padding: 28px 0 18px 0;
+}
+
+.game__content{
+    padding-right: 5.3%;
+}
+
+.game__icon{
+    padding: 22px 6% 0 0;
+}
+
+.game__title{
+    padding: 28px 0 20px 0;
+}

@@ -2,7 +2,7 @@
 
 .UC__content{
     background: no-repeat url("../img/bg__uc.png");
-    height: 810px;
+    height: 845px;
     background-size: 100%;
     -o-background-size: 100%;
     -webkit-background-size: 100%;
@@ -12,7 +12,7 @@
     align-items: center;
     justify-content: center;
     /* justify-content: space-evenly; */
-    padding: 0 0 50px 34%;
+    padding: 0 0 95px 34%;
 }
 
 .UC__title__h2{
@@ -28,7 +28,7 @@
     color: #494949;
     font-weight: 600;
     font-family: "Raleway";
-    padding: 15px 0 25px 0;
+    padding: 18px 0 25px 0;
     letter-spacing: 0.6px;
 }
 

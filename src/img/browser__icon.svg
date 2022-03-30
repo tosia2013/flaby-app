@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 32" width="41" height="32">
+	<title>Browser</title>
+	<defs>
+		<linearGradient id="g1" x1="10.4" y1="25.4" x2="30.6" y2="6.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6af3f9"/>
+			<stop offset="1" stop-color="#2eafeb"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<rect id="Browser" class="s0" x="0" y="0" width="41" height="32" rx="2.6"></rect>
+</svg>
