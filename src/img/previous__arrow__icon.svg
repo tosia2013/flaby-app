@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 17" width="35" height="17">
+	<title>arrow icon</title>
+	<style>
+		.s0 { opacity: .4;fill: #494949 } 
+	</style>
+	<path id="arrow icon" class="s0" d="m0.2 8l8-7.8q0.2-0.2 0.5-0.2c0.5 0 0.8 0.3 0.8 0.8q0 0.3-0.2 0.5l-6.6 6.4h31.5c0.4 0 0.8 0.4 0.8 0.8 0 0.4-0.4 0.8-0.8 0.8h-31.5l6.6 6.4q0.2 0.2 0.2 0.5c0 0.5-0.3 0.8-0.8 0.8q-0.3 0-0.5-0.2l-8-7.8q-0.2-0.2-0.2-0.5 0-0.3 0.2-0.5z"/>
+</svg>
