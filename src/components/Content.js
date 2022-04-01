@@ -3,6 +3,7 @@ import Services from "./services/Services";
 import UnlimitedCustomization from "./unlimited customization/UnlimitedCustomization";
 import OtherServices from "./other services/OtherServices";
 import CustomeComments from "./custome comments/CustomeComments";
+import GreatResourse from "./great resourse/GreatResourse";
 
 const Content = () =>(
     <>
@@ -11,6 +12,7 @@ const Content = () =>(
             <UnlimitedCustomization />
             <OtherServices />
             <CustomeComments />
+            <GreatResourse />
         </div>
     </>    
 );
