@@ -4,6 +4,7 @@ import UnlimitedCustomization from "./unlimited customization/UnlimitedCustomiza
 import OtherServices from "./other services/OtherServices";
 import CustomeComments from "./custome comments/CustomeComments";
 import GreatResourse from "./great resourse/GreatResourse";
+import PricingTable from "./pricing table/PricingTable";
 
 const Content = () =>(
     <>
@@ -13,6 +14,7 @@ const Content = () =>(
             <OtherServices />
             <CustomeComments />
             <GreatResourse />
+            <PricingTable />
         </div>
     </>    
 );
